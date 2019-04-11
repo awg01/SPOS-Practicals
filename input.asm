@@ -1,0 +1,13 @@
+	START	100	
+A	DS	3	
+    MOVER AREG,='5'
+L1      MOVER   AREG,B	
+	ADD	AREG,C	
+	MOVEM	AREG,D 	
+D	EQU	A+1	
+L2	PRINT	D 	
+	ORIGIN	L2+1	
+	STOP		
+B	DC	'19'	
+C	DC	'17'	
+	END					
