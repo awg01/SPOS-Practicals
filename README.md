@@ -1,2 +1,1 @@
-# SPOS-Practicals
-System Programming and Operating System Programs of Computer Engineering Sem 6
+# SPOS-Practical (Simulating Pass 1 of two pass assembler using java)
